@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <project name="TestWeb" default="war" basedir=".">
     <property name="classes" value="build/classes" />     
+     <property name="build" value="build" />
     
     <target name="clean">
         <delete dir="build" />
