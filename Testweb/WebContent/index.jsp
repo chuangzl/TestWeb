@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p>Hello World Foxconn</p>
-<p>2016-12-14 15:42</p>
+<p>Hello World Foxconn Yale</p>
+<p>2016-12-14 15:48</p>
     
 </body>
 </html>
