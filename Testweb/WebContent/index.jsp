@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<jsp:forward page="index.html"></jsp:forward>
 <p>Hello World Foxconn Test</p>
 <p>2016-12-14 15:48</p>
  <p> 2016-12 17 by licz </p>
