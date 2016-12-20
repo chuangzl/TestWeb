@@ -8,8 +8,8 @@
     </target>
  
     <target name="war">
-        <war destfile="${build}/TestWeb.war" webxml="WebContent/WEB-INF/web.xml">
-            <fileset dir="WebContent" includes="**/*.jsp" />
+        <war destfile="${build}/TestWeb.war">
+            <fileset dir="WebContent" />
  
         </war>
     </target>
